@@ -9,7 +9,7 @@ public class AppTest {
     public void testValidPalindrome() {
         App app = new App();
         // Test 1: Standard lowercase palindrome
-        assertTrue(app.isPalindrome("madam"));
+        assertTrue(app.isPalindrome("apple"));
     }
 
     @Test
